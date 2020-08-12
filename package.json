@@ -1,0 +1,13 @@
+{
+  "name": "nc_blockchain",
+  "version": "1.0.0",
+  "description": "nomadcoders - Build a blockchain with Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/lgh7418/nc_blockchain.git",
+  "author": "Gahee Lee <lgh7418@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js"
+  }
+}
